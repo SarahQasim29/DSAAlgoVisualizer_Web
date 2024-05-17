@@ -14,7 +14,7 @@ In our Project, we have worked on four Paradigms. These paradigms serve as the b
 **TECHNOLOGIES AND TOOLS USED:**
 1. Frontend: HTML, CSS
 2. Backend: JavaScript
-3. Tool used for Coding: Visual Studio Code
+3. Tool for Coding: Visual Studio Code
 
 **INTERFACES:**
 ![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/06a3af2e-ce92-481b-b739-13d80b44b889)
