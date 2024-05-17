@@ -5,11 +5,16 @@ In the realm of computer science education, comprehending complex algorithms can
 The core issue addressed by our Algorithm Visualizer project lies in the inherent complexity and abstraction associated with various searching and sorting algorithms, posing a significant hurdle for individuals, especially beginners, in comprehending their intricacies. Traditional learning materials often fall short in providing a tangible and interactive understanding of these algorithms. Consequently, our project seeks to mitigate this challenge by offering a practical and visual approach to algorithmic education. 
 
 **PARADIGMS:**
-In our Project, we have worked on four Paradigms. These paradigms serve as the backbone for the interactive and educational aspects of the application.
+In our Project, we have worked on four Paradigms. These paradigms serve as the backbone for the interactive and educational aspects of the application and serve as the key features.
 1. Sorting Algorithms (Insertion Sort, Selection Sort, Merge Sort, Quick Sort, Bubble Sort)
 2. Searching Algorithm (Linear Search, Binary Search)
 3. Path Finding Algorithm ( Dijkstra Algorithm, A* Algorithm)
 4. Data Structures (Stack, Queue, Linked List)
+
+**TECHNOLOGIES AND TOOLS USED:**
+1. Frontend: HTML, CSS
+2. Backend: JavaScript
+3. Tool used for Coding: Visual Studio Code
 
 **INTERFACES:**
 ![image](https://github.com/SarahQasim29/DSAAlgoVisualizer_Web/assets/170097314/06a3af2e-ce92-481b-b739-13d80b44b889)
